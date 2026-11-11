@@ -52,8 +52,22 @@ window.SITE_CONTENT = {
   ],
 
   publications: [
-    // 示例：删除下一行开头的 //，再按需修改即可添加论文。
-    // { year: "2026", title: "Paper title", authors: "Robin Cai, Coauthor", venue: "Journal or Conference", url: "https://doi.org/...", code: "https://github.com/..." }
+    {
+      year: "2025",
+      title: "AES-SEA and Bionic Knee Based Lower Limb Exoskeleton Design and LQR-virtual Tunnel Control",
+      authors: "Yi Long, <strong>Zhibin Cai</strong>, Hexiao Guo",
+      venue: "Journal of Bionic Engineering, 22(3), 1231–1248",
+      role: { en: "Second author", zh: "第二作者" },
+      doi: "https://doi.org/10.1007/s42235-025-00678-9"
+    },
+    {
+      year: "2026",
+      title: "GIDMP-based Gait Generation and Adaptive Switching Control for Lower Limb Exoskeleton",
+      authors: "Yi Long, Hexiao Guo, <strong>Zhibin Cai</strong>, Long He, Wei Dong, Tao Liu, Jingang Yi",
+      venue: "IEEE/ASME Transactions on Mechatronics, 31(3), 3790–3798",
+      role: { en: "Third author", zh: "第三作者" },
+      doi: "https://doi.org/10.1109/TMECH.2026.3656391"
+    }
   ],
 
   notes: [
