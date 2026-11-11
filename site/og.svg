@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f9fc"/>
+  <rect x="72" y="72" width="1056" height="486" rx="32" fill="#ffffff" stroke="#e5eaf0" stroke-width="3"/>
+  <rect x="130" y="142" width="170" height="170" rx="26" fill="#2867b2"/>
+  <text x="215" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="70" font-weight="700" fill="#ffffff">RC</text>
+  <text x="352" y="205" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#23364d">Robin Cai</text>
+  <text x="352" y="270" font-family="Arial, sans-serif" font-size="30" fill="#2867b2">Wearable Robotics · Data Augmentation</text>
+  <line x1="130" y1="362" x2="1070" y2="362" stroke="#e5eaf0" stroke-width="3"/>
+  <text x="130" y="430" font-family="Arial, sans-serif" font-size="30" fill="#4f5d6d">Ph.D. Student at Northeastern University, China</text>
+  <text x="130" y="482" font-family="Arial, sans-serif" font-size="26" fill="#687386">Hip-assist exoskeletons · Human-centered assistance</text>
+</svg>
+
