@@ -58,7 +58,12 @@ window.SITE_CONTENT = {
       authors: "Yi Long, <strong>Zhibin Cai</strong>, Hexiao Guo",
       venue: "Journal of Bionic Engineering, 22(3), 1231–1248",
       role: { en: "Second author", zh: "第二作者" },
-      doi: "https://doi.org/10.1007/s42235-025-00678-9"
+      description: {
+        en: "This work presents an adjustable energy-storage series elastic actuator, a bio-inspired knee mechanism, and an LQR–virtual-tunnel controller for efficient, aligned, and safe walking assistance.",
+        zh: "该研究提出可调储能串联弹性执行器、仿生膝关节机构以及 LQR–虚拟隧道控制方法，旨在提升步行助力的能效、关节对齐性与人机交互安全性。"
+      },
+      doi: "https://doi.org/10.1007/s42235-025-00678-9",
+      image: "assets/publications/aes-sea-cover.png"
     },
     {
       year: "2026",
@@ -66,7 +71,12 @@ window.SITE_CONTENT = {
       authors: "Yi Long, Hexiao Guo, <strong>Zhibin Cai</strong>, Long He, Wei Dong, Tao Liu, Jingang Yi",
       venue: "IEEE/ASME Transactions on Mechatronics, 31(3), 3790–3798",
       role: { en: "Third author", zh: "第三作者" },
-      doi: "https://doi.org/10.1109/TMECH.2026.3656391"
+      description: {
+        en: "This work proposes GIDMP for personalized gait trajectory generation together with an adaptive switching controller, validated through metabolic, plantar-pressure, and surface-EMG experiments.",
+        zh: "该研究提出用于个性化步态轨迹生成的 GIDMP 方法与自适应切换控制器，并通过代谢、足底压力和表面肌电实验验证助力效果。"
+      },
+      doi: "https://doi.org/10.1109/TMECH.2026.3656391",
+      image: "assets/publications/gidmp-cover.png"
     }
   ],
 
@@ -76,4 +86,3 @@ window.SITE_CONTENT = {
     { title: { en: "Connecting data, models, and exoskeleton hardware", zh: "连接数据、模型与外骨骼硬件" }, status: { en: "Draft", zh: "草稿" }, url: "" }
   ]
 };
-
