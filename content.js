@@ -40,8 +40,8 @@ window.SITE_CONTENT = {
   ],
 
   education: [
-    { mark: "NEU", range: { en: "Ph.D. · Present", zh: "博士 · 在读" }, school: { en: "Northeastern University", zh: "东北大学" }, detail: { en: "Wearable Robotics · Data Augmentation · Advisor: Associate Professor Yi Long", zh: "穿戴式机器人 · 数据增强 · 指导教师：龙亿副教授" } },
-    { mark: "NEU", range: { en: "Master’s", zh: "硕士" }, school: { en: "Northeastern University", zh: "东北大学" }, detail: { en: "Graduate Study and Research · Advisor: Associate Professor Yi Long", zh: "硕士阶段学习与研究 · 指导教师：龙亿副教授" } },
+    { mark: "NEU", range: { en: "Ph.D. · Present", zh: "博士 · 在读" }, school: { en: "Northeastern University", zh: "东北大学" }, detail: { en: "Wearable Robotics · Data Augmentation", zh: "穿戴式机器人 · 数据增强" } },
+    { mark: "NEU", range: { en: "Master’s", zh: "硕士" }, school: { en: "Northeastern University", zh: "东北大学" }, detail: { en: "Graduate Study and Research", zh: "硕士阶段学习与研究" } },
     { mark: "QLU", range: { en: "Bachelor’s", zh: "本科" }, school: { en: "Qilu University of Technology", zh: "齐鲁工业大学" }, detail: { en: "Undergraduate Education", zh: "本科阶段学习" } }
   ],
 
