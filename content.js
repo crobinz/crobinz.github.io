@@ -21,11 +21,11 @@ window.SITE_CONTENT = {
   about: {
     en: [
       "I am <strong>Robin Cai</strong>, a Ph.D. student at <strong>Northeastern University, China</strong>. My research focuses on <strong>data augmentation for wearable robotics</strong>. I am currently studying <strong>hip-assist exoskeleton robots</strong>, with an interest in turning limited human-motion data into reliable knowledge for learning, evaluation, and personalized assistance.",
-      "My broader goal is to help wearable robots understand differences across people, activities, and movement patterns, and ultimately provide assistance that is both effective and human-centered."
+      "My broader goal is to help wearable robots understand differences across people, activities, and movement patterns, and ultimately provide assistance that is both effective and human-centered. My academic advisor during both my master’s and Ph.D. studies is <strong>Associate Professor Yi Long</strong>."
     ],
     zh: [
       "我是 <strong>Robin Cai</strong>，现为<strong>东北大学</strong>博士研究生，主要研究<strong>穿戴式机器人数据增强</strong>。目前围绕<strong>髋关节助力外骨骼机器人</strong>开展研究，关注如何将有限的人体运动数据转化为可用于学习、评估与个性化助力的可靠知识。",
-      "我的长期目标是帮助穿戴式机器人理解不同个体、活动和运动模式之间的差异，进而提供有效且以人为中心的助力。"
+      "我的长期目标是帮助穿戴式机器人理解不同个体、活动和运动模式之间的差异，进而提供有效且以人为中心的助力。硕士及博士期间的指导教师为<strong>龙亿副教授</strong>。"
     ],
     collaboration: {
       en: "I am interested in research discussions and collaboration around wearable robotics, exoskeletons, human-motion data, and intelligent assistive systems.",
@@ -40,8 +40,8 @@ window.SITE_CONTENT = {
   ],
 
   education: [
-    { mark: "NEU", range: { en: "Ph.D. · Present", zh: "博士 · 在读" }, school: { en: "Northeastern University", zh: "东北大学" }, detail: { en: "Wearable Robotics · Data Augmentation", zh: "穿戴式机器人 · 数据增强" } },
-    { mark: "NEU", range: { en: "Master’s", zh: "硕士" }, school: { en: "Northeastern University", zh: "东北大学" }, detail: { en: "Graduate Study and Research", zh: "硕士阶段学习与研究" } },
+    { mark: "NEU", range: { en: "Ph.D. · Present", zh: "博士 · 在读" }, school: { en: "Northeastern University", zh: "东北大学" }, detail: { en: "Wearable Robotics · Data Augmentation · Advisor: Associate Professor Yi Long", zh: "穿戴式机器人 · 数据增强 · 指导教师：龙亿副教授" } },
+    { mark: "NEU", range: { en: "Master’s", zh: "硕士" }, school: { en: "Northeastern University", zh: "东北大学" }, detail: { en: "Graduate Study and Research · Advisor: Associate Professor Yi Long", zh: "硕士阶段学习与研究 · 指导教师：龙亿副教授" } },
     { mark: "QLU", range: { en: "Bachelor’s", zh: "本科" }, school: { en: "Qilu University of Technology", zh: "齐鲁工业大学" }, detail: { en: "Undergraduate Education", zh: "本科阶段学习" } }
   ],
 
@@ -57,7 +57,7 @@ window.SITE_CONTENT = {
       title: "AES-SEA and Bionic Knee Based Lower Limb Exoskeleton Design and LQR-virtual Tunnel Control",
       authors: "Yi Long, <strong>Zhibin Cai</strong>, Hexiao Guo",
       venue: "Journal of Bionic Engineering, 22(3), 1231–1248",
-      role: { en: "Second author", zh: "第二作者" },
+      role: { en: "Second author · First student author", zh: "第二作者 · 学生第一作者" },
       description: {
         en: "This work presents an adjustable energy-storage series elastic actuator, a bio-inspired knee mechanism, and an LQR–virtual-tunnel controller for efficient, aligned, and safe walking assistance.",
         zh: "该研究提出可调储能串联弹性执行器、仿生膝关节机构以及 LQR–虚拟隧道控制方法，旨在提升步行助力的能效、关节对齐性与人机交互安全性。"
@@ -70,7 +70,7 @@ window.SITE_CONTENT = {
       title: "GIDMP-based Gait Generation and Adaptive Switching Control for Lower Limb Exoskeleton",
       authors: "Yi Long, Hexiao Guo, <strong>Zhibin Cai</strong>, Long He, Wei Dong, Tao Liu, Jingang Yi",
       venue: "IEEE/ASME Transactions on Mechatronics, 31(3), 3790–3798",
-      role: { en: "Third author", zh: "第三作者" },
+      role: { en: "Third author · Second student author", zh: "第三作者 · 学生第二作者" },
       description: {
         en: "This work proposes GIDMP for personalized gait trajectory generation together with an adaptive switching controller, validated through metabolic, plantar-pressure, and surface-EMG experiments.",
         zh: "该研究提出用于个性化步态轨迹生成的 GIDMP 方法与自适应切换控制器，并通过代谢、足底压力和表面肌电实验验证助力效果。"
